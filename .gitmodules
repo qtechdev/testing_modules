@@ -1,0 +1,3 @@
+[submodule "modules/greeter"]
+	path = modules/greeter
+	url = git@github.com:qtechdev/module_greeter.git
